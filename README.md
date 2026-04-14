@@ -79,5 +79,5 @@ Leveraging 12+ years of frontend expertise to create **AI-enhanced user experien
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/alexandre-gadaix-a7792947/)
+- 💼 **LinkedIn:** [linkedin.com/in/AG](https://www.linkedin.com/in/alexandre-gadaix-a7792947/)
 
