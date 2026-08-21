@@ -47,15 +47,6 @@ Frontend-focused engineer with **12+ years**, I love creating scalable, accessib
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-## 📊 GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GadDev&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GadDev&theme=dark&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadDev&layout=compact&theme=dark&hide_border=true)
- 
-![Profile Views](https://komarev.com/ghpvc/?username=GadDev&color=blueviolet&style=flat-square)
-
 ---
 
 ## 🤖 AI & Machine Learning Journey
