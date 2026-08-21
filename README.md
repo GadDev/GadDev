@@ -47,11 +47,21 @@ Frontend-focused engineer with **12+ years**, I love creating scalable, accessib
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
+## 📊 GitHub Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GadDev&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GadDev&theme=dark&hide_border=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadDev&layout=compact&theme=dark&hide_border=true)
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=GadDev&color=blueviolet&style=flat-square)
+
 ---
 
 ## 🤖 AI & Machine Learning Journey
 
-> _"From building user interfaces to building intelligent interfaces"_
+> *"Can machines think?"*
+> — Alan Turing, 1950 (opening line of Computing Machinery and Intelligence)
 
 **Current Focus:**
 
@@ -66,18 +76,15 @@ Leveraging 12+ years of frontend expertise to create **AI-enhanced user experien
 ---
 
 ⭐ **Fun fact:** I've been building production apps since 2014, and I'm just getting started! Always looking for challenging projects and collaboration opportunities.
-
+ 
 - 🌏 Lived and worked in **4 countries**: France, UK, Luxembourg, China
-- 🤖 **AI Enthusiast** - Daily user of GitHub Copilot & Claude, exploring the intersection of traditional development and AI
-- 🧠 **LLM Explorer** - Fascinated by how Large Language Models can enhance developer productivity and user experiences
-- 🚀 **Agentic AI Curious** - Investigating how autonomous AI agents can transform software development workflows
-- 🤖 **AI Enthusiast** - Daily user of GitHub Copilot & Claude, exploring the intersection of traditional development and AI
-- 🧠 **LLM Explorer** - Fascinated by how Large Language Models can enhance developer productivity and user experiences
-- 🚀 **Agentic AI Curious** - Investigating how autonomous AI agents can transform software development workflows
-
+- 🤖 **AI Enthusiast** — Daily user of GitHub Copilot & Claude, exploring the intersection of traditional development and AI
+- 🧠 **LLM Explorer** — Fascinated by how Large Language Models can enhance developer productivity and user experiences
+- 🚀 **Agentic AI Curious** — Investigating how autonomous AI agents can transform software development workflows
 ---
-
+ 
 ## 🤝 Let's Connect!
-
-- 💼 **LinkedIn:** [linkedin.com/in/AG](https://www.linkedin.com/in/alexandre-gadaix-a7792947/)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gadaix-a7792947/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GadDev)
 
